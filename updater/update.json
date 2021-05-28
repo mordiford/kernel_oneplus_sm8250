@@ -2,9 +2,9 @@
   "kernel": {
     "name": "Radioactive Kernel OP8Series",
     "version": "V2.2.0",
-    "link": "https://github.com/acuicultor/Radioactive_kernel_oneplus8/releases/download/V2.2.0/RadioactiveKernel_V2.2.0_OnePlus8Series.zip",
+    "link": "https://github.com/acuicultor/Radioactive_kernel_oneplus8/releases/download/V2.2.0/RadioactiveKernel_CUSTOM_V2.2.0_OnePlus8Series.zip",
     "changelog_url": "https://raw.githubusercontent.com/acuicultor/Radioactive_kernel_oneplus8/rebase_custom/updater/changelog.txt",
-    "date": "2021-05-4",
+    "date": "2021-05-04",
     "sha1": "29a6efe9cd085b0c67b4000a5b1a459bde792a43"
   },
   "support": {
